@@ -1,5 +1,4 @@
-``` Java
-	package com.fastcampus.app;
+package com.fastcampus.app;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -38,5 +37,3 @@ public class HomeController {
 	}
 	
 }
-
-```
