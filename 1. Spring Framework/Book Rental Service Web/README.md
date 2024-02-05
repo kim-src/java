@@ -5,8 +5,8 @@
 # 🚀 Book Rental Service Web (ver. 0.3)
 > - Web Development Project
 > - Spring MVC Framework
-> - IDE : Spring Tool Suite 3
-> - Spring : Java, HTML, CSS
+> - 개발 환경 : Spring Tool Suite 3
+> - 개발 언어 : Java, HTML, CSS
 
 <br/>
 
