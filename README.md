@@ -4,7 +4,7 @@
 > - [LinkedIn Profile (Kim-src)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
 <!-- Dates -->
-<p align="right">UPDATE : February 4, 2024</p>
+<p align="right">UPDATE : February 5, 2024</p>
 <p align="right">START : February 4, 2024</p>
 
 <!-- Title -->
@@ -53,6 +53,14 @@
 
 <!-- Tips -->
 ### 🔔 [STS와 깃허브(GitHub) 연동하는 방법]()
+
+<br>
+
+***
+
+<br>
+<br>
+<br>
 
 <!-- References -->
 ### 🎁 [Spring.io 사이트](https://spring.io/projects)
