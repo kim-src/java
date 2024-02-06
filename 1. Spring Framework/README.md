@@ -4,7 +4,7 @@
 
 <br>
 
-### ✅ Toy Projects (Ascending order of starting date)
+### ✅ Spring Frameworks (Ascending order of starting date)
 > 1. Book Rental Service Web
 
 <br>
