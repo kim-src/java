@@ -18,19 +18,19 @@
 
 ### 🎯 구현된 웹 페이지 모습
 ### A. 홈 페이지 : index.jsp 
-<p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/b02a3c66-e68f-42d0-a5f9-a328e87e07c2" width="500px"></p>
+<p align="center"><img src="https://github.com/Kim-src/Images/assets/150884526/50e489f9-aa51-44b6-9369-f3a826894c86" width="500px"></p>
 
 ### B. 고객등록 페이지 : register.jsp
-<p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/018e1d30-bfa5-4864-82bf-a01a9b799233" width="500px"></p>
+<p align="center"><img src="https://github.com/Kim-src/Images/assets/150884526/e991d72a-7870-440d-8b35-077c4052e616" width="500px"></p>
 
 ### C. 고객목록 조회 페이지 : list.jsp
-<p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/9f9d8a5d-9dd3-4b20-9555-040405eafe5c" width="500px"></p>
+<p align="center"><img src="https://github.com/Kim-src/Images/assets/150884526/469a39d7-ae4d-463a-9086-a7e9eb7fa4fd" width="500px"></p>
 
 ### D. 고객대여목록 조회 페이지 : rentallist.jsp
-<p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/d08b7414-e2ef-44c9-8ed5-93018b30897c" width="500px"></p>
+<p align="center"><img src="https://github.com/Kim-src/Images/assets/150884526/cfbd68b7-84e6-42b2-a60d-f6c821eaf2b6" width="500px"></p>
 
 ### E. 고객대여금액 조회 페이지 : rentalamount.jsp
-<p align="center"><img src="https://github.com/Kim-src/Book-Rental-Service/assets/150884526/79211948-f3ba-4944-8d42-261e5c85e29a" width="500px"></p>
+<p align="center"><img src="https://github.com/Kim-src/Images/assets/150884526/8bde634f-8bcf-4cf1-abb3-101b27be4658" width="500px"></p>
 
 <br/>
 
