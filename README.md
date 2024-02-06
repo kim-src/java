@@ -1,42 +1,24 @@
-<!-- 작성자 소개 -->
+<!-- Introduction -->
 ### 🎁 My Profile
-> - [Velog Blog (Kim-src)](https://velog.io/@kim-src/series)
-> - [LinkedIn Profile (Kim-src)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
-<!-- Dates -->
-<p align="right">UPDATE : February 5, 2024</p>
-<p align="right">START : February 4, 2024</p>
-
-<!-- Title -->
-# ✅ All of the Spring
-
+<br>
 <br>
 
 <!-- Contents -->
-### 🔔 Spring Projects
-> 1. Spring Framework
-> 2. Spring Boot
-> 3. Spring Data
-> 4. Spring Cloud
-> 5. Spring Cloud Data Flow
-> 6. Spring Security
-> 7. Spring Authorization Server
-> 8. Spring for GraphQL
-> 9. Spring Session
-> 10. Spring Integration
-> 11. Spring HATEOAS
-> 12. Spring Modulith
-> 13. Spring REST Docs
-> 14. Spring Batch
-> 15. Spring AMQP
-> 16. Spring Flo
-> 17. Spring for Apache Kafka
-> 18. Spring LDAP
-> 19. Spring for Apache Pulsar
-> 20. Spring Shell
-> 21. Spring Statemachine
-> 22. Spring Web Flow
-> 23. Spring Web Services
+## ✅ All Spring Projects (Descending order of difficulty)
+> ### 1. [Cavity Detection AI Model]() in TensorFlow Projects
+>> - 프로젝트 소개 : AI 이미지 학습을 통한 싱크홀 이미지 자동 분석 프로그램
+>> - 개발 목적 : 3D-GPR 데이터 분석 난이도 하향
+>> - 주요 자료 : GPR 공동 탐사 데이터 및 50만장의 이미지
+
+<br>
+
+## ✅ All Spring Projects (Ascending order of starting date)
+> ### 1. [Cavity Detection AI Model]() in TensorFlow Projects
+>> - 프로젝트 소개 : AI 이미지 학습을 통한 싱크홀 이미지 자동 분석 프로그램
+>> - 개발 목적 : 3D-GPR 데이터 분석 난이도 하향
+>> - 주요 자료 : GPR 공동 탐사 데이터 및 50만장의 이미지
 
 <br>
 
@@ -45,23 +27,3 @@
 <br>
 <br>
 <br>
-
-<!-- Title -->
-# ✅ Some Tips
-
-<br>
-
-<!-- Tips -->
-### 🔔 [STS와 깃허브(GitHub) 연동하는 방법]()
-
-<br>
-
-***
-
-<br>
-<br>
-<br>
-
-<!-- References -->
-# 🎁 References
-### 🔑 [Spring.io 사이트](https://spring.io/projects)
