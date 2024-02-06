@@ -13,7 +13,7 @@
 <br>
 
 <!-- Contents -->
-### 🔔 Many Spring Projects
+### 🔔 Spring Projects
 > 1. Spring Framework
 > 2. Spring Boot
 > 3. Spring Data
