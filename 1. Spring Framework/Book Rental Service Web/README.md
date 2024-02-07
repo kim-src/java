@@ -1,7 +1,9 @@
-### 🎁 작성자 Profile
-> - [작성자의 LinkedIn Profile](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+<!-- Introduction -->
+### 🎁 My Profile
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
-<br/>
+<br>
+<br>
 
 # 🚀 개발 현황 : Book Rental Service Web (현재 ver. 0.5.0)
 > - v0.3.0 : 고객 목록 및 도서 대여 현황 데이터베이스 구축(MySQL을 이용한 database 및 table 생성 완료) (2024-01-19)
