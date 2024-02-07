@@ -1,3 +1,10 @@
+<!-- Introduction -->
+### 🎁 My Profile
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+
+<br>
+<br>
+
 <!-- Contents -->
 ## ✅ Spring Framework Projects (Descending order of difficulty)
 > ### 1. [Book Rental Service Web](https://github.com/Kim-src/Spring/tree/main/1.%20Spring%20Framework/Book%20Rental%20Service%20Web)
