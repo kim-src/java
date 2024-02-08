@@ -21,7 +21,7 @@
 <br>
 
 <!-- Update Date -->
-#### <p align="right">Date : February 5, 2024</p>
+#### <p align="right">Date : January 24, 2024</p>
 
 <!-- Title -->
 # 🚀 Book Rental Service Web (ver. 0.5.0)
