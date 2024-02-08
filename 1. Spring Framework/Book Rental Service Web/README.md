@@ -24,7 +24,7 @@
 #### <p align="right">Date : February 5, 2024</p>
 
 <!-- Title -->
-# 🚀 Book Rental Service Web (ver. 0.3)
+# 🚀 Book Rental Service Web (ver. 0.5.0)
 > - Web Development Project
 > - Spring MVC Framework
 > - 개발 환경 : Spring Tool Suite 3
