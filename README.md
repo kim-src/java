@@ -4,7 +4,6 @@
 <br>
 <br>
 
-<!-- Contents -->
 ## ✅ All Java Projects
 > ### 1. [KimLibrary_STS3](https://github.com/Kim-src/Spring/tree/main/1.%20Spring%20Framework/Book%20Rental%20Service%20Web)
 > - 개발 환경 : Spring Tool Suite 3
