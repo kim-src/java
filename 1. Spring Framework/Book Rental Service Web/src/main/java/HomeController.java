@@ -18,12 +18,12 @@ import org.springframework.web.bind.annotation.RequestBody;
 @Controller
 public class HomeController {
     
-	@RequestMapping(value = "/")
+    @RequestMapping(value = "/")
     public String Home() {
         return "redirect:/index";
     }
 	
-	@RequestMapping(value = "/index")
+    @RequestMapping(value = "/index")
     public String showIndexPage() {
         return "index";
     }
