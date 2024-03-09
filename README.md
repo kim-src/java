@@ -24,6 +24,22 @@
 
 <br>
 
+### 📌 2. [Calculator_IntelliJ](https://github.com/Kim-src/Calculator_IntelliJ)
+> - 학습 환경 : IntelliJ
+> - 학습 언어 : Java
+> - 학습 내용 : 사칙연산 계산기 제작
+> - 상세 내용 : 덧셈, 뺄셈, 곱셈, 나눗셈 구현
+
+<br>
+
+### 📌 3. [GradeCalculator_IntelliJ](https://github.com/Kim-src/GradeCalculator_IntelliJ)
+> - 학습 환경 : IntelliJ
+> - 학습 언어 : Java
+> - 학습 내용 : 학점 계산기 제작
+> - 상세 내용 : 학생의 평균 학점 계산식 구현
+
+<br>
+
 ***
 
 <br>
