@@ -27,7 +27,6 @@
 ### 📌 2. [깃허브 블로그](https://github.com/Kim-src/Kim-src.github.io)
 > - 개발 환경 : Visual Studio Code
 > - 개발 목적 : 학습했던 프로그래밍 지식 정리 및 개발 과정 복기
-> - 개발 내용 : 제작한 Ruby의 Jekyll 사이트를 github.io에 배포
 > - 개발 역량 : 글 작성 능력, GitHub Acitions 이해
 > - 상세 내용 : 깃허브 블로그 링크(https://kim-src.github.io)
 > - 개발에 필요했던 기능 :  
