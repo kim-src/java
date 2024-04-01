@@ -28,7 +28,7 @@
 > - 개발 환경 : Visual Studio Code
 > - 개발 목적 : 학습했던 프로그래밍 지식 정리 및 개발 과정 복기
 > - 개발 역량 : 웹 개발 기능 활용력, GitHub Acitions 이해
-> - 상세 내용 : 깃허브 블로그 링크(https://kim-src.github.io)
+> - 상세 내용 : 깃허브 Actions 링크(https://github.com/Kim-src/Kim-src.github.io/actions)
 > - 개발에 필요했던 기능 :  
 > <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" /> <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=white" />
 
